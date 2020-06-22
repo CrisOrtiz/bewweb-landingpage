@@ -4,3 +4,4 @@ Landing page for bewweb development business, starting colaborative development 
 #Figma design of landing page url
 https://www.figma.com/file/lJSUyrJeitbmgoUp4bSmfU/co-work-bewweb?node-id=0%3A1
 
+#Font-family: Montserrat
