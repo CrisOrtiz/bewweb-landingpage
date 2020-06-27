@@ -1,0 +1,18 @@
+#footer{
+    background: #2C54FF;
+}
+#footer a{
+    color: white;
+}
+#footer small{
+    color: white;
+}
+.btn-facebook{
+    background-image:url(assets/images/facebook.png);
+}
+.btn-twitter{
+    background-image:url(assets/images/twitter.png); 
+}
+.btn-instagram{
+    background-image:url(assets/images/instagram.png);  
+}
