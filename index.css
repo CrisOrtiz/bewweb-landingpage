@@ -73,7 +73,80 @@ ul{
     margin-left:13%;
 }
 
-<<<<<<< HEAD
-=======
+body {
+    
+    margin: 20px;
+    padding: 20px 20px 20px 20px;
+    background-color: white;
+  }
+h1 {
+    padding: 5px 0;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;     
+    font-size: 45px;
+}
 
->>>>>>> fb792c0c354621a13e360d001c4c7ed3340f9db7
+div.modo1 {
+    width: 70%;
+    overflow: hidden;
+    text-align: left;
+    
+}
+div.modo2 {
+    width: 100%;
+    overflow: hidden;
+    text-align: left;
+    
+}
+
+div.modo3{
+    align-content: left;
+    width: 100%;
+    overflow: hidden;
+
+}
+div.grande{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    clear: both;
+    margin: 5px 0px;
+
+
+}
+
+p.alin{
+    font-size: 20px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 100%;
+    text-align: justify;
+    color: rgb(0, 89, 255);
+    
+}
+a.uno{
+    border-radius: 5px;
+    padding: 10px 30px;
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(0, 89, 255);
+    margin: 5px;
+  }
+a.dos{
+   
+    border:  rgb(0, 89, 255) 1px solid;
+    padding: 10px 30px;
+    text-decoration: none;
+    color:  rgb(0, 89, 255);
+    background-color: rgb(255, 255, 255);
+    margin: 5px;
+  }
+  p.ultimo{
+    font-size: 20px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 100%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
+  
